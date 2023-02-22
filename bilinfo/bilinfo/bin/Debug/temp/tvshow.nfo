@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+  <plot>$desc$</plot>
+  <title>$title$</title>
+  <year>$year$</year>
+  <mpaa>PG</mpaa>
+  <customrating>PG</customrating>
+  <countrycode>CN</countrycode>
+  <premiered>$pubdate$</premiered>
+  <release>$pubdate$</release>
+  <runtime>$duration$</runtime>
+  <country>中国</country>
+  <id>$BV$</id>
+  <num>$BV$</num>
+  $tag$  
+  <actor>
+    <name>$up$</name>
+    <type>Actor</type>
+  </actor>
+</movie>

@@ -1,0 +1,11 @@
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\bilinfo.exe.config
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\bilinfo.exe
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\bilinfo.pdb
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\obj\Debug\bilinfo.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\obj\Debug\bilinfo.exe
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\obj\Debug\bilinfo.pdb
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\LitJson.dll
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\SunnyUI.Common.dll
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\bin\Debug\SunnyUI.dll
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\obj\Debug\bilinfo.MainForm.resources
+C:\Users\ifwz\Desktop\bilinfo\bilinfo\obj\Debug\bilinfo.csproj.GenerateResource.Cache

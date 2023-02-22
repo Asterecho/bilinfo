@@ -1,0 +1,9 @@
+C:\Users\ifwz\Desktop\bililurker\bililurker\obj\Debug\bililurker.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\bililurker\bililurker\bin\Debug\LitJson.dll
+C:\Users\ifwz\Desktop\bililurker\bililurker\obj\Debug\bililurker.MainForm.resources
+C:\Users\ifwz\Desktop\bililurker\bililurker\obj\Debug\bililurker.csproj.GenerateResource.Cache
+C:\Users\ifwz\Desktop\bililurker\bililurker\bin\Debug\潜伏者.exe.config
+C:\Users\ifwz\Desktop\bililurker\bililurker\bin\Debug\潜伏者.exe
+C:\Users\ifwz\Desktop\bililurker\bililurker\bin\Debug\潜伏者.pdb
+C:\Users\ifwz\Desktop\bililurker\bililurker\obj\Debug\潜伏者.exe
+C:\Users\ifwz\Desktop\bililurker\bililurker\obj\Debug\潜伏者.pdb
