@@ -1,0 +1,11 @@
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\bilist.exe.config
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\bilist.exe
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\bilist.pdb
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\LitJson.dll
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\SunnyUI.Common.dll
+C:\Users\ifwz\Desktop\bilist\bilist\bin\Debug\SunnyUI.dll
+C:\Users\ifwz\Desktop\bilist\bilist\obj\Debug\bilist.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\bilist\bilist\obj\Debug\bilist.MainForm.resources
+C:\Users\ifwz\Desktop\bilist\bilist\obj\Debug\bilist.csproj.GenerateResource.Cache
+C:\Users\ifwz\Desktop\bilist\bilist\obj\Debug\bilist.exe
+C:\Users\ifwz\Desktop\bilist\bilist\obj\Debug\bilist.pdb
